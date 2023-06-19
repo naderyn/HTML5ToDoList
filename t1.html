@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>To-Do List</title>
+    <link rel="stylesheet" href="t1.css">
+
+  </head>
+  <body>
+    <h1>To-Do List</h1>
+    <form>
+      <label for="task">Task:</label>
+      <input type="text" id="task" required />
+
+      <label for="user">Assign to:</label>
+      <select id="user">
+        <option value="aya">aya</option>
+        <option value="nader">nader</option>
+        <option value="nermen">nermen</option>
+        <option value="adel">adel</option>
+
+      </select>
+
+      <button type="submit" id="add-task">Add Task</button>
+    </form>
+
+    <div>
+      <label for="search">Search:</label>
+      <input type="text" id="search" />
+      <button type="button" id="search-btn">Search</button>
+    </div>
+
+    <ul id="task-list"></ul>
+
+    <script src="t1.js"></script>
+  </body>
+</html>
