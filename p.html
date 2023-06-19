@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Art Board App</title>
+    <link rel="stylesheet" href="p.css">
+</head>
+<body>
+    <div id="container">
+        <canvas id="canvas"></canvas>
+        <div id="controls">
+            <button id="clear-btn">Clear</button>
+            <label for="brush-size">Brush Size:</label>
+            <input type="range" id="brush-size" min="1" max="50" value="10">
+            <label for="brush-color">Brush Color:</label>
+            <input type="color" id="brush-color" value="#000000">
+            <button id="line-btn">Line</button>
+            <button id="circle-btn">Circle</button>
+            <button id="rectangle-btn">Rectangle</button>
+        </div>
+    </div>
+    <script src="p.js"></script>
+</body>
+</html>

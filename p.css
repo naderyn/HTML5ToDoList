@@ -1,0 +1,25 @@
+#container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+
+canvas {
+    border: 1px solid #ccc;
+}
+
+#controls {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+#controls button, #controls label {
+    margin-right: 10px;
+}
+
+#controls input[type="range"], #controls input[type="color"] {
+    margin-right: 20px;
+}

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Art Board App</title>
+    <meta charset="utf-8" />
+    <style>
+      #canvas {
+        border: 3px solid black;
+      }
+      button {
+        margin-right: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <canvas id="canvas"></canvas>
+    <br />
+    <button id="pencil">Pencil</button>
+    <button id="line">Line</button>
+    <button id="rectangle">Rectangle</button>
+    <button id="circle">Circle</button>
+    <button id="eraser">Eraser</button>
+    <br />
+    <label>Stroke color:</label>
+    <input type="color" id="stroke-color" value="#000000" />
+    <br />
+    <label>Stroke width:</label>
+    <input type="range" id="stroke-width" min="1" max="50" value="5" />
+    <br />
+    <label>Fill color:</label>
+    <input type="color" id="fill-color" value="#000000" />
+    <script src="p2.js"></script>
+  </body>
+</html>

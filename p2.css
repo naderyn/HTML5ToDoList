@@ -1,0 +1,25 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+#toolbar {
+	background-color: #ddd;
+	padding: 10px;
+}
+
+.tool {
+	margin-right: 10px;
+}
+
+canvas {
+	display: block;
+	margin: 0 auto;
+	border: 1px solid #aaa;
+}
+
+
+
+
+
+
