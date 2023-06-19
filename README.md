@@ -1,11 +1,11 @@
-![Screenshot 1](https://1drv.ms/i/s!AmylGq5UEPzIoWEoagPWVAwFbzz3?e=SZAIu3)
+![Screenshot 1](https://i.imgur.com/sJCQjWQ.png)
 
-![Screenshot 2](https://1drv.ms/i/s!AmylGq5UEPzIoWD2paCIjZpIOcIE?e=IfcAQc)
+![Screenshot 2](https://i.imgur.com/GBQy5Lq.png)
 
-![Screenshot 3](https://1drv.ms/i/s!AmylGq5UEPzIoWRwmV4352KhPx1c?e=mZaRRu)
+![Screenshot 3](https://i.imgur.com/vbdaxx2.png)
 
-![Screenshot 4](https://1drv.ms/i/s!AmylGq5UEPzIoWYo2nkNfGijTs8K?e=K06u7q)
+![Screenshot 4](https://i.imgur.com/ncmW1BS.png)
 
-![Screenshot 5](https://1drv.ms/i/s!AmylGq5UEPzIoWcMeSHlCLbr71Xx?e=UyN5ph)
+![Screenshot 5](https://i.imgur.com/UBXDCTq.png)
 
-![Screenshot 6](https://1drv.ms/i/s!AmylGq5UEPzIoWn7k-AFMr7t6Hor?e=AW5TcL)
+![Screenshot 6](https://i.imgur.com/fJCbIuY.png)
